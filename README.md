@@ -1,13 +1,13 @@
-Título do projeto
+Métodos
+
 Apenas praticando o uso de métodos
 
 🚀 Começando
-Pode colocar o enunciado para o desenvolvimento do projeto
+
 
 📋 Pré-requisitos
 
 🔧 Instalação
-Apenas visualizar
 
 🛠️ Construído com
 
